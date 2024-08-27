@@ -62,4 +62,3 @@ https://proxypool.link/sip002/sub
 https://proxypool.link/ssr/sub
 https://proxypool.link/vmess/sub
 https://proxypool.link/trojan/sub
-https://github.com/qjlxg/genode/raw/main/public/all.txt
