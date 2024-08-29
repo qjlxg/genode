@@ -1,4 +1,4 @@
-https://git.homegu.com/qjlxg/YBSub/raw/master/sub/share/v2
-https://git.homegu.com/qjlxg/YBSub/raw/master/sub/share/tr
-https://git.homegu.com/qjlxg/YBSub/raw/master/sub/share/ssr
-https://git.homegu.com/qjlxg/YBSub/raw/master/sub/share/ss
+https://raw.githubusercontent.com/qjlxg/YBSub/raw/master/sub/share/v2
+https://raw.githubusercontent.com/qjlxg/YBSub/raw/master/sub/share/tr
+https://raw.githubusercontent.com/qjlxg/YBSub/raw/master/sub/share/ssr
+https://raw.githubusercontent.com/qjlxg/YBSub/raw/master/sub/share/ss
