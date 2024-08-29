@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/qjlxg/YBSub/raw/master/sub/share/v2
-https://raw.githubusercontent.com/qjlxg/YBSub/raw/master/sub/share/tr
-https://raw.githubusercontent.com/qjlxg/YBSub/raw/master/sub/share/ssr
-https://raw.githubusercontent.com/qjlxg/YBSub/raw/master/sub/share/ss
+https://github.com/qjlxg/YBSub/raw/master/sub/share/v2
+https://github.com/qjlxg/YBSub/raw/master/sub/share/tr
+https://github.com/qjlxg/YBSub/raw/master/sub/share/ssr
+https://github.com/qjlxg/YBSub/raw/master/sub/share/ss
